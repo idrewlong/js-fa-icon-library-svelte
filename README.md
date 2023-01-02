@@ -1,0 +1,1 @@
+# js-fa-icon-library-svelte
